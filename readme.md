@@ -97,7 +97,7 @@ La usabilidad de la aplicación, combina información sobre la infraestructura c
 Con esta solución de código abierto, se permite a los operadores preparar documentación y soluciones de planificación de comunicaciones con muchos beneficios como desarrollo automático de planes de red, informes y documentación de las diferentes fases de elaboración de proyecto, evaluación de indicadores económicos,
 en resumen una solución global.
 
-De nuevo la hibridación está presente.
+De nuevo la hibridación está presente, se obtiene una evolución y producto completo que proviene de una única herramienta software.
 
 
 ## **Re-descubriendo la hibridacion: BIM**
@@ -122,7 +122,7 @@ Actualmente su implantación a nivel mundial está en expansión cada vez tiene 
 ![IMAGE ALT Global](https://damassets.autodesk.net/content/dam/autodesk/www/solutions/bim/images/world-map-r1-white-1920x1000.png)
 
 
-La evolución hacia la arquitectura ecológica demanda cambios en los procesos para hacer los ciclos de vida más sostenibles. Las emisiones más significativas se imputan a la fase de uso y de mantenimiento y no a la de construcción por lo que cada vez deben diseñarse modelos más eficientes.
+La evolución hacia la arquitectura ecológica demanda cambios en los procesos para hacer los ciclos de vida más sostenibles. Las emisiones más significativas se imputan a la fase de uso y de mantenimiento de las edificaciones y no a la de construcción por lo que cada vez deben diseñarse modelos más eficientes.
 
 
 En la empresa Autodesk presentan en este vídeo diferentes ejemplos de uso de esta tecnología BIM
@@ -161,12 +161,14 @@ Las ventajas de coordinación y de trabajo en tiempo real, la visualización en 
 
 La elección de estos dos casos está planteada por la fusión y posible hibridación entre ellos. Compañías como Autodesk o ESRI tiene una visión sobre los beneficios de la explotación de datos combinados entre la inteligencia de locacización y el proceso de diseño.
 
-
+### Planteamiento de Autodesk GIS + BIM 
 [![IMAGE ALT ArcGis+BIM](https://damassets.autodesk.net/content/dam/autodesk/www/solutions/bim/bim-gis-collaboration/design-coordination-large-1920x1010.jpg)](https://damassets.autodesk.net/content/dam/autodesk/www/campaigns/emea/docs/es/bim-gis-integration-ebook-es-la.pdf)
 
+
+### Planteamiento de ESRI GIS + BIM
 [![IMAGE ALT ArcGis+BIM](https://www.esri.com/content/dam/esrisites/en-us/arcgis/products/arcgis-geobim/assets/arcgis-geobim-banner-fg.png)](https://www.esri.com/es-es/arcgis/products/arcgis-geobim/overview)
 
-SIG descripción enlace video youtube 
+
 
 
 
@@ -176,6 +178,9 @@ SIG descripción enlace video youtube
 * http://europa.eu/rapid/press-release_MEMO-10-200_en.htm - información sobre la Agenda Digital Europea
 * http://www.ftthcouncil.eu/ - Sitio web de FTTH Council Europe
 * https://ksavinetworkinventory.com/en/download-geospatial-network-inventory-free/ - página web de descarga de herramientas.
+* https://www.autodesk.es/
+* https://www.esri.es/
+* https://es.wikipedia.org/wiki/Wikipedia:Portada
 
 ----
 
