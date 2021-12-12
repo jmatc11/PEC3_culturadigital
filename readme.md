@@ -27,7 +27,7 @@ Siguiendo la visión de Manovich, podemos observar la evolución de las diferent
 
 >(Manovich Lev, 2013)
 <p>
-SEGUNDO. Pero como aspecto más relevante, quiero centrarme en el tratamiento que se realiza de los datos. Esto es un factor determinante en los modelos constructivos durante toda la fase de proyecto. Se genera un estilo predeterminado de metadatos que unidos en un contexto forman un catálogo con información que aporta mejoras sustanciales frente a los antiguos medios utilizados.
+SEGUNDO. Como aspecto más relevante, quiero centrarme en el tratamiento que se realiza de los datos. Esto es un factor determinante en los modelos constructivos durante toda la fase de proyecto. Se genera un estilo predeterminado de metadatos que unidos en un contexto forman un catálogo con información que aporta mejoras sustanciales frente a los antiguos medios utilizados.
 
 </p>
 >"... observamos un proceso ininterrumpido de invención de novedades, pero lo que se inventa no son clases totalmente nuevas de medios, sino más bien nuevos elementos (nuevas técnicas para crear, modificar y compartir datos de medios..."
@@ -78,7 +78,10 @@ Todas las funcionalidades de aplicación se estructuran y dotan de las funcional
 
 
 ### **Caso de uso**
-El modo de visionar el alcance de una aplicación lo basamos en un ejemplo con QGIS para la planificación de redes FTTH/GPON debido a la implementación de la Agenda Digital Europea. En la implantación de este proyecto para el desarrollo de mapas conceptuales de red FTTH, fué necesaria la incorporación de varios componentes funcionales aparte de la plataforma SIG estándar:
+Un ejemplo de uso con la aplicación QGIS es la Planificación de redes FTTH/GPON debido a la implementación de la Agenda Digital Europea.
+
+
+ En la implantación de este proyecto para el desarrollo de mapas conceptuales de red FTTH, fué necesaria la incorporación de varios componentes funcionales aparte de la plataforma SIG estándar:
 - GRASS - una colección de algoritmos vectoriales y de red,
 - Complementos QGIS - OpenLayer, QuickOSM, Scipy Point Clustering, WorkContextTracer,
 - QGIS modeler – herramienta para el modelado gráfico de flujo,
@@ -93,6 +96,8 @@ La usabilidad de la aplicación, combina información sobre la infraestructura c
 
 Con esta solución de código abierto, se permite a los operadores preparar documentación y soluciones de planificación de comunicaciones con muchos beneficios como desarrollo automático de planes de red, informes y documentación de las diferentes fases de elaboración de proyecto, evaluación de indicadores económicos,
 en resumen una solución global.
+
+De nuevo la hibridación está presente.
 
 
 ## **Re-descubriendo la hibridacion: BIM**
