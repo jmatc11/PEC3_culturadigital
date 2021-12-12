@@ -16,9 +16,9 @@ Según el Parlamento Europeo,
 >‘la economía circular es un modelo de producción y consumo que implica compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales y productos existentes todas las veces que sea posible para crear un valor añadido. De esta forma, el ciclo de vida de los productos se extiende’.
 
 Los dos ejemplos que planteo para identificar la hibridación son SIG (Sistema de Información Geografica) y BIM (Building Information Modeling), los observo desde diferentes aspectos;
-
-1. Por una parte la creación mediante aplicaciones software de soluciones para la mejora en la gestión de un proyecto, en este caso pondré un ejemplo de una aplicación Software para cada caso. 
-
+<p>
+PRIMERO. Por una parte la creación mediante aplicaciones software de soluciones para la mejora en la gestión de un proyecto, en este caso pondré un ejemplo de una aplicación Software para cada caso. 
+</p>
 
 Siguiendo la visión de Manovich, podemos observar la evolución de las diferentes herramientas que se utilizaban para la elaboración de un proyecto. Para un pequeño proyecto constructivo se necesitaban un conjunto de herramientas software para la elaboración de un dibujo en 2D con CAD, un calculo de estructuras, instalaciones, iluminación, un renderizado en 3D para su visualización con texturas y vistas, y en resúmen un conjunto de aplicaciones que, aunque aprovechando datos parciales entre ellas, no realizaban un flujo único dentro del proyecto. En estos nuevos desarrollos software el cambio es total, y se unifica en un único Software que incorpora todas las herramientas necesarias para el ciclo de vida del proyecto.
 
@@ -26,10 +26,10 @@ Siguiendo la visión de Manovich, podemos observar la evolución de las diferent
 >“Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos..”
 
 >(Manovich Lev, 2013)
+<p>
+SEGUNDO. Pero como aspecto más relevante, quiero centrarme en el tratamiento que se realiza de los datos. Esto es un factor determinante en los modelos constructivos durante toda la fase de proyecto. Se genera un estilo predeterminado de metadatos que unidos en un contexto forman un catálogo con información que aporta mejoras sustanciales frente a los antiguos medios utilizados.
 
-2. Pero como aspecto más relevante, quiero centrarme en el tratamiento que se realiza de los datos. Esto es un factor determinante en los modelos constructivos durante toda la fase de proyecto. Se genera un estilo predeterminado de metadatos que unidos en un contexto forman un catálogo con información que aporta mejoras sustanciales frente a los antiguos medios utilizados.
-
-
+</p>
 >"... observamos un proceso ininterrumpido de invención de novedades, pero lo que se inventa no son clases totalmente nuevas de medios, sino más bien nuevos elementos (nuevas técnicas para crear, modificar y compartir datos de medios..."
 
 >(Manovich Lev, 2013)
