@@ -78,7 +78,7 @@ Todas las funcionalidades de aplicación se estructuran y dotan de las funcional
 
 
 ### **Caso de uso**
-Un ejemplo de uso con la aplicación QGIS es la Planificación de redes FTTH/GPON debido a la implementación de la Agenda Digital Europea.
+Para identificar más facilmente la hibridación, planteo un caso de uso que es la Planificación de redes FTTH/GPON debido a la implementación de la Agenda Digital Europea.
 
 
  En la implantación de este proyecto para el desarrollo de mapas conceptuales de red FTTH, fué necesaria la incorporación de varios componentes funcionales aparte de la plataforma SIG estándar:
@@ -97,7 +97,7 @@ La usabilidad de la aplicación, combina información sobre la infraestructura c
 Con esta solución de código abierto, se permite a los operadores preparar documentación y soluciones de planificación de comunicaciones con muchos beneficios como desarrollo automático de planes de red, informes y documentación de las diferentes fases de elaboración de proyecto, evaluación de indicadores económicos,
 en resumen una solución global.
 
-De nuevo la hibridación está presente, se obtiene una evolución y producto completo que proviene de una única herramienta software.
+De nuevo la hibridación está presente, existe una evolución y se genera un nuevo producto que proviene de una única herramienta software y que representa un cambio total en el modo de interactuar para obtener el producto final.
 
 
 ## **Re-descubriendo la hibridacion: BIM**
