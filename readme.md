@@ -16,18 +16,20 @@ En un mundo globalizado y en constante evolución, donde los factores económico
 
 Según el Parlamento Europeo, 
 >‘la economía circular es un modelo de producción y consumo que implica compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales y productos existentes todas las veces que sea posible para crear un valor añadido. De esta forma, el ciclo de vida de los productos se extiende’.
+<p>
+Los dos ejemplos que planteo para identificar la hibridación son SIG (Sistema de Información Geografica) y BIM (Building Information Modeling). Los observo desde diferentes aspectos;
+</p>
+1. Por una parte la creación mediante aplicaciones software de soluciones para la mejora en la gestión de un proyecto, en este caso pondré un ejemplo de una aplicación Software para cada caso. 
 
-Los ejemplos que planteo en los dos casos de hibridación, SIG (Sistema de Información Geografica) y BIM (Building Information Modeling) los observo desde diferentes aspectos, por una parte la creación mediante aplicaciónes software de soluciones para la mejora en la gestión de un proyecto, en este caso pondré un ejemplo de una aplicación Software para cada caso. 
-
-En la visión de Manovich, podemos extraer una visión sobre la evolución de las diferentes herramientas que se utilizaban para la elaboración de un proyecto. Para un pequeño proyecto constructivo se necesitaban un conjunto de herramientas software para la elaboración de un dibujo en 2D con CAD, un calculo de estructuras, instalaciones, iluminación, un renderizado en 3D para su visualización con texturas y vistas, y en resúmen un conjunto de aplicaciones que, aunque aprovechando datos parciales entre ellas, no realizaban un flujo único dentro del proyecto. 
-En estos nuevos desarrollos software el cambio es total, y se unifica en un único Software que incorpora las herramientas necesarias.
+<p>Siguiendo la visión de Manovich, podemos observar la evolución de las diferentes herramientas que se utilizaban para la elaboración de un proyecto. Para un pequeño proyecto constructivo se necesitaban un conjunto de herramientas software para la elaboración de un dibujo en 2D con CAD, un calculo de estructuras, instalaciones, iluminación, un renderizado en 3D para su visualización con texturas y vistas, y en resúmen un conjunto de aplicaciones que, aunque aprovechando datos parciales entre ellas, no realizaban un flujo único dentro del proyecto. En estos nuevos desarrollos software el cambio es total, y se unifica en un único Software que incorpora todas las herramientas necesarias para el ciclo de vida del proyecto.
 
 
 >“Desde esta perspectiva, la nueva especie de medios (un único proyecto, servicio web o programa de software) representa el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos..”
 
 >(Manovich Lev, 2013)
-
-Pero como aspecto más relevante, está el tratamiento que se realiza de los datos. Esto es un factor determinante en los modelos constructivos durante toda la fase de proyecto. Se genera un estilo predeterminado de metadatos que unidos en un contexto forman un catálogo con información que aporta mejoras sustanciales frente a los antiguos medios utilizados.
+</p>
+2. Pero como aspecto más relevante, quiero centrarme en el tratamiento que se realiza de los datos. Esto es un factor determinante en los modelos constructivos durante toda la fase de proyecto. Se genera un estilo predeterminado de metadatos que unidos en un contexto forman un catálogo con información que aporta mejoras sustanciales frente a los antiguos medios utilizados.
+<br>
 
 >"... observamos un proceso ininterrumpido de invención de novedades, pero lo que se inventa no son clases totalmente nuevas de medios, sino más bien nuevos elementos (nuevas técnicas para crear, modificar y compartir datos de medios..."
 
@@ -35,10 +37,14 @@ Pero como aspecto más relevante, está el tratamiento que se realiza de los dat
 
 En esta línea, muchos desarrolladores de software plantean diferentes soluciones en los ejemplos que planteo, Graphisoft, Nemetscheck, Autodesk, ARCGIS, QGIS,..
 
-La explotación de datos en el proyecto genera múltipes beneficios en todas las fases constructivas, no solo en el diseño si no en los procesos posteriores que redunda en una mayor eficiencia en todo el proceso, desde el diseño a la construcción y al mantenimiento.
+La explotación de datos en el proyecto genera múltipes beneficios en todas sus fases, no solo en el diseño inicial, si no en los procesos posteriores que redunda en una mayor eficiencia en todo el proceso de inicio a fin.
+
+Analicemos los ejemplos a continuación:
 
 ## Re-descubriendo la hibridacion: SIG 
 ## SISTEMA DE INFORMACIÓN GEOGRÁFICA
+
+<br>
 
 > Un sistema de información geográfica (SIG), también habitualmente citado como GIS por las siglas de su nombre en inglés Geographical Information System, es un conjunto de herramientas que integra y relaciona diversos componentes que permiten la organización, almacenamiento, manipulación, análisis y modelización de grandes cantidades de datos procedentes del mundo real que están vinculados a una referencia espacial, facilitando la incorporación de aspectos sociales-culturales, económicos y ambientales que conducen a la toma de decisiones de una manera más eficaz.
 
@@ -47,7 +53,11 @@ La explotación de datos en el proyecto genera múltipes beneficios en todas las
 
 >Wikipedia_
 
+Las posibilidades de uso de un SIG son inmensas, disponer de información geográfica, vinculada a otros datos genera multiples posibilidades de uso. Es destacable la posibilidad de monitorización de activos que permite optimizar los recursos disponibles mediante las tomas de datos en campo con IoT. La capacidad de analizar los datos disponibles permiten explotar el gran potencial del sistema.
+
 [![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/e/ef/Sig.jpg)](https://es.wikipedia.org/wiki/Sistema_de_informaci%C3%B3n_geogr%C3%A1fica)
+
+En el sector AEC –Architecture, Engineering & Construction- tiene una gran relevancia, y desde áreas como el Urbanismo y el Catastro, a aplicaciones de Emergencia y Seguridad vinculadas a Protección Civil, se obtienen grandes beneficios con esta herramienta.
 
 ### Software: Aplicación QGIS
 En este caso, el ejemplo expuesto es un software Libre y de código Abierto. QGIS es multiplataforma y soporta datos vector, ráster y bases de datos, dispone de una comunidad que da soporte a este proyecto.
@@ -64,10 +74,23 @@ El entorno principal consta de cinco tipos de componentes
 4. Vista de mapa
 5. Barra de estado
 
-Todas las funcionalidades de aplicación se estructuran y dotan de las funcionalidades de Menú, Paneles y Barras de herramientas, Vista del Mapa, Vista del Mapa 3D y Barra de Estado.
+Todas las funcionalidades de aplicación se estructuran y dotan de las funcionalidades de Menú, Paneles y Barras de herramientas, Vista del Mapa, Vista del Mapa 3D y Barra de Estado, esto representa un conjunto de soluciones que anteriormente se diversificaban en diferentes aplicaciones y que unificadas toman mayor relevancia.
 
+### Caso de uso
+QGIS para la planificación de redes FTTH/GPON debido a la implementación de la Agenda Digital Europea.
 
+En la implantación de un proyecto para el desarrollo de mapas conceptuales de red FTTH, 
+Estos retos necesitaron de la incorporación de varios componentes funcionales aparte de la plataforma SIG estándar:
+- GRASS - una colección de algoritmos vectoriales y de red,
+- Complementos QGIS - OpenLayer, QuickOSM, Scipy Point Clustering, WorkContextTracer,
+- QGIS modeler – herramienta para el modelado gráfico de flujo,
+- SpatiaLite - una base de datos local para almacenar datos de entrada y salida. 
 
+La usabilidad de la aplicación, combina información sobre la infraestructura civil existente, red de carreteras, puntos de planificación de red, todo esto presentado en capas separadas.Tras el procesado por los algoritmos, se presentan cables planificados y segmentos de red con sus características. Desde el entorno de aplicación se generan informes de datos con los cálculos desde diferentes perspectivas.
+[![IMAGE ALT TEXT HERE](https://www.qgis.org/en/_images/step4_results.png)](https://www.qgis.org/en/site/about/case_studies/poland_ffth.html)
+
+Con esta solución de código abierto, se permite a los operadores preparar documentación y soluciones de planificación de comunicaciones con muchos beneficios como desarrollo automático de planes de red, informes y documentación de las diferentes fases de elaboración de proyecto, evaluación de indicadores económicos,
+en resumen una solución global.
 
 ## Re-descubriendo la hibridacion: BIM - BUILDING INFORMATION MODELING
 Buscando una definición de BIM, podemos basarnos en la realizada en Wikipedia, 
@@ -112,9 +135,10 @@ SIG descripción enlace video youtube
 #### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* https://www.un.org/es/global-issues/population
-
+* http://europa.eu/rapid/press-release_MEMO-10-200_en.htm - información sobre la Agenda Digital Europea
+* http://www.ftthcouncil.eu/ - Sitio web de FTTH Council Europe
+* https://ksavinetworkinventory.com/en/download-geospatial-network-inventory-free/ - página web de descarga de herramientas.
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
